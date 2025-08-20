@@ -7,15 +7,21 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Armaan Fallahi - physician-neuroscientist trainee"
-description              : &description "personal description"
-url                      : https://armaanfallahi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+
+locale        : "en-US"
+site_theme    : "default"
+title         : "Armaan Fallahi"
+title_separator: "-"
+name          : &name "Armaan Fallahi — physician–neuroscientist trainee"
+description   : &description "MD–PhD (U of T) | Early-life stress, memory engrams, amygdala circuits, neuromodulation"
+
+# IMPORTANT: project-site settings
+url           : "https://armaanfallahi.github.io"   # no trailing slash
+baseurl       : "/armaanfallahi"                    # starts with slash; no trailing slash
+repository    : "armaanfallahi/armaanfallahi"
+
+timezone      : "America/Toronto"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,8 +31,8 @@ author:
   avatar           : "profile.png"
   name             : "Armaan Fallahi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Tkaronto"
+  bio              : "MD–PhD @ UofT & SickKids. I study how early-life stress reshapes amygdala engrams."
+  location         : "Tkaronto / Toronto"
   employer         : "University of Toronto, Hospital for Sick Children"
   uri              : # URL
   email            : "armaan.fallahi@mail.utoronto.ca" 
