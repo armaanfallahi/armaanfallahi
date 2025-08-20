@@ -17,8 +17,9 @@ description   : &description "MD–PhD (U of T) | Early-life stress, memory engr
 
 # IMPORTANT: project-site settings
 url: "https://armaanfallahi.github.io"
-baseurl: ""                  # starts with slash; no trailing slash
-repository    : "armaanfallahi/armaanfallahi"
+baseurl: "/armaanfallahi"
+repository: "armaanfallahi/armaanfallahi"
+
 timezone      : "America/Toronto"
 
 
