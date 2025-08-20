@@ -4,7 +4,6 @@ title: "About Me"
 author_profile: true
 ---
 
-# About Me
 
 I’m **Armaan Fallahi**, an MD–PhD trainee at the University of Toronto and the Hospital for Sick Children.  
 My research focuses on how early-life stress reshapes amygdala circuits and memory engrams.  
