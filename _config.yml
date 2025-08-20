@@ -28,7 +28,7 @@ timezone      : "America/Toronto"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Armaan Fallahi"
   pronouns         : # example: "she/her"  
   bio              : "MD–PhD @ UofT & SickKids. I study how early-life stress reshapes amygdala engrams."
