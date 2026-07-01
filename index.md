@@ -1,42 +1,27 @@
 ---
 layout: single
-title: "About Me"
+title: "Welcome"
+excerpt: "MD–PhD trainee studying how early-life experience shapes the developing memory circuits of the brain."
 author_profile: true
 ---
 
+I'm **Armaan Fallahi**, an MD&ndash;PhD student at the **University of Toronto** and the **Hospital for Sick Children**, where I work in the [Josselyn &amp; Frankland labs](https://www.josselynlab.com/). I'm a [CIHR Vanier Scholar](https://vanier.gc.ca/) and a Junior Fellow of Massey College.
 
-I’m **Armaan Fallahi**, an MD–PhD trainee at the University of Toronto and the Hospital for Sick Children.  
-My research focuses on how early-life stress reshapes amygdala circuits and memory engrams.  
-I am passionate about combining medicine, neuroscience, and advocacy to help people with brain and mind-related conditions.  
+My research asks a deceptively simple question: **how do the earliest experiences of life become wired into the memory circuits of the brain &mdash; and how can that wiring go wrong?** Using mouse genetics, imaging, and behaviour, I study how early-life adversity reshapes *engrams* &mdash; the small ensembles of neurons that physically hold a memory &mdash; in the amygdala and the circuits it talks to.
 
----
+I came to neuroscience through medicine, and I keep one foot in each. Alongside the bench, I write and advocate on the physician's role in society, edit medical journals, and mentor the next generation of clinician-scientists.
 
-## Research Interests
-- Memory specificity and generalization  
-- Engram dynamics in the amygdala  
-- Early-life stress and neurodevelopment  
-- Interneuron circuits (VIP, PV, SST)  
+## What I study
 
----
+- **Memory engrams** &mdash; how ensembles of neurons are allocated to, and compete for, a memory
+- **Early-life adversity** &mdash; how stress in development rewires threat learning and generalization
+- **Amygdala circuits** &mdash; the inhibitory (PV, SST, VIP) and long-range projections that shape fear
+- **From cells to behaviour** &mdash; bridging molecular, systems, and computational neuroscience
 
-## Teaching & Mentorship
-I enjoy teaching and mentoring students in neuroscience and medicine.  
-- Teaching Assistant: Neuroanatomy, Neuropsychopharmacology  
-- Mentor: Medical and graduate student trainees  
+## Beyond the bench
 
----
+I care about medicine as a public good. I've served as VP External Affairs of the University of Toronto Medical Society, as Editor-in-Chief of the *University of Toronto Medical Journal*, and as a national youth advisor on cannabis and mental health. I write on advocacy and the humanities in medicine, and I mentor trainees navigating the MD&ndash;PhD path.
 
-## Outreach & Advocacy
-- Co-led equity and inclusivity events at Massey College  
-- Student leadership in the University of Toronto Medical Society  
-- Published commentary on advocacy and decolonization in medicine  
+## Get in touch
 
----
-
-## CV
-[View my CV]({{ site.baseurl }}/cv/)
-
----
-
-## Blog
-Occasional essays on neuroscience, medicine, and the clinician–scientist journey.
+Interested in the work, a collaboration, or mentorship? Explore my [publications]({{ site.baseurl }}/publications/) and [CV]({{ site.baseurl }}/cv/), or reach me at [armaan.fallahi@mail.utoronto.ca](mailto:armaan.fallahi@mail.utoronto.ca).

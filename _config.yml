@@ -88,10 +88,13 @@ author:
 publication_category:
 
   manuscripts:
-    title: 'Journal Articles' 
-    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Peer-Reviewed Journal Articles'
+
+  chapters:
+    title: 'Book Chapters'
+
+  commentaries:
+    title: 'Commentaries &amp; Medical Humanities'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
