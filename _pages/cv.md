@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*An abbreviated CV is below. A full PDF is available on request &mdash; or reach me at [armaan.fallahi@mail.utoronto.ca](mailto:armaan.fallahi@mail.utoronto.ca).*
+*An abbreviated CV is below.* **[Download the full CV (PDF)]({{ site.baseurl }}/files/CV.pdf)** &mdash; *or reach me at [armaan.fallahi@mail.utoronto.ca](mailto:armaan.fallahi@mail.utoronto.ca).*
 
 Education
 ======
