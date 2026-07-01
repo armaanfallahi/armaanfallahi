@@ -34,7 +34,7 @@ I enjoy teaching and mentoring students in neuroscience and medicine.
 ---
 
 ## CV
-[Download my CV (PDF)]({{ site.baseurl }}/files/CV.pdf)
+[View my CV]({{ site.baseurl }}/cv/)
 
 ---
 
